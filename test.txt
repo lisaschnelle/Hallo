@@ -1,7 +1,3 @@
 Hallo
 Hey
-Bye
-Hello World 
-bla
-bla
 
